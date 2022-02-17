@@ -9,6 +9,9 @@ public class batch12 {
 		
 		System.out.println("we here bitches");
 		
+		System.out.println("we here bitches");
+		
+		
 	}
 
 }
